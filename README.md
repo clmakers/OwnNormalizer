@@ -1,2 +1,2 @@
 # OwnNormalizer
-Framework para la verificación y normalización de objectos JSON
+JavaScript Framework For Validation And Normalization Of JSON Objects
