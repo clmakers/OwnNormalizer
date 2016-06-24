@@ -26,7 +26,72 @@ module.exports = {
     onNewTestCreeated:onNewTestCreeated
 };
 
+//Globals
+
+/*
+ * required
+ * type
+ * defaultValue
+ */
+
+
+//String Rules
+
+/*
+ * maxLength
+ * minLength
+ * exactLength
+ * truncate
+ * 
+ */
+
+//Dates Rules
+
+/*
+ * future
+ * mask
+ */
+
+//Number Rules
+
+/*
+ * allowNegative
+ * maxValue
+ * minValue
+ * upperCased
+ * lowerCased
+ */
+
+//Boolean Rules
+
+/*
+ * 
+ */
+
+//URL Rules
+
+/*
+ * urlPattern
+ * allowedDomain
+ */
+
+//HTML Rules
+/*
+ * allowedScripts
+ */
+
+//Password Rules
+/*
+ * algoritm
+ * secretKey
+ * minLength
+ */
+
+//Email Rules
+/*
+ * 
+ */   
 
 // exactLength
 // defaultValue
-// 
+// allowHtmlTags
