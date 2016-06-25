@@ -19,6 +19,21 @@ var onNewTestCreeated = {
         type: "date",
         future:true,
         mask:"dddd dd 'de' mmmm 'del' yyyy"
+    },
+    votes:{
+        required:false,
+        type:"number",
+        minValue:8,
+        maxValue:10
+    },
+    isTrending:{
+        type:"boolean"
+    },
+    email:{
+        type:"email"
+    },
+    phone:{
+        type:"phone"
     }
 };
 

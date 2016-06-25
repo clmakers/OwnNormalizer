@@ -11,7 +11,11 @@ var data = {
     id: "FDKFJSKFJDSKFSDJKSDFK",
     title: "Titulos <p> <script>alert('algo');</script>",
     description: "Descripcion del titulo de prueba",
-    date: "06/26/2016" // MM-DD-YYYY || MM DD YYYY || MM-DD-YYYY || long
+    date: "06/26/2016", // MM-DD-YYYY || MM DD YYYY || MM-DD-YYYY || long
+    votes:10,
+    isTrending:true,
+    email:"sample@domain.com",
+    phone:'+90.2322456789'
 };
 
 app.use(bodyParser.urlencoded({ extended: false }));  
