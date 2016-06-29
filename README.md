@@ -1,2 +1,14 @@
 # OwnNormalizer
-JavaScript Framework For Validation And Normalization Of JSON Objects
+NodeJS Framework for validation and normalization of JSON objects
+
+## Install
+
+```sh
+$ npm install OwnNormalizer
+```
+
+## API
+
+```js
+var ownNormalizer = require('OwnNormalizer')
+```
