@@ -1,6 +1,6 @@
 {
   "name": "OwnNormalizer",
-  "version": "1.1.9",
+  "version": "1.1.10",
   "keywords": [
     "util",
     "functional",
@@ -11,7 +11,12 @@
   "author": "dsambo",
   "contributors": [],
   "dependencies": {
+    "crypto": "0.0.3",
+    "fs": "0.0.2",
+    "http": "0.0.0",
     "is_js": "^0.8.0",
+    "jsonwebtoken": "^7.0.1",
+    "path": "^0.12.7",
     "sanitizer": "^0.1.3"
   },
   "scripts": {
