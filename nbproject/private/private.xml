@@ -6,8 +6,6 @@
             <file>file:/Users/dsambo/ENVIROMENT/CLM/OwnNormalizer/package.json</file>
             <file>file:/Users/dsambo/ENVIROMENT/CLM/OwnNormalizer/lib/ownnormalizer.js</file>
         </group>
-        <group name="OwnNormalizer">
-            <file>file:/Users/dsambo/ENVIROMENT/OwnNormalizer/lib/ownnormalizer.js</file>
-        </group>
+        <group name="OwnNormalizer"/>
     </open-files>
 </project-private>
