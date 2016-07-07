@@ -1,6 +1,8 @@
 {
   "name": "OwnNormalizer",
   "version": "1.1.10",
+  "repository":"https://github.com/clmakers/OwnNormalizer.git",
+  "license": "MIT",
   "keywords": [
     "util",
     "functional",
@@ -8,8 +10,11 @@
     "client",
     "browser"
   ],
-  "author": "dsambo",
-  "contributors": [],
+  "author": "CLMakers",
+  "contributors": [
+      "Domingo Sambo <domingosambo@gmail.com>",
+      "Jose Miguel Pineda <josemiguelpinedac@gmail.com>"
+  ],
   "dependencies": {
     "crypto": "0.0.3",
     "fs": "0.0.2",
