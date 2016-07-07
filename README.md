@@ -11,4 +11,12 @@ $ npm install OwnNormalizer
 
 ```js
 var ownNormalizer = require('OwnNormalizer')
+
+myOwn = new ownNormalizer({
+        crtPrivateKey: "Your Private Key",
+        crtPublicKey: "Your Public Key",
+        crtJwtSecret: "Your Jwt Secret",
+});
+
+
 ```
