@@ -7,4 +7,6 @@
 
 'use strict';
 
-module.exports = require('./lib/ownnormalizer');
+//import OwnNormalizer from './lib/OwnNormalizer';
+
+module.exports = require('./lib/OwnNormalizer');
