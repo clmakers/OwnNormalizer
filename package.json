@@ -1,6 +1,6 @@
 {
     "name": "OwnNormalizer",
-    "version": "2.0.2",
+    "version": "2.0.3",
     "keywords": ["util", "functional", "server", "client", "browser"],
     "authors": ["dsambo","jpineda"],
     "contributors": [],

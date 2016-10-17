@@ -5,5 +5,9 @@
         <group name="SEM_Cloud">
             <file>file:/Users/dsambo/ENVIROMENT/OwnNormalizer/lib/OwnNormalizer.js</file>
         </group>
+        <group name="OwnPubSub">
+            <file>file:/Users/dsambo/ENVIROMENT/OwnNormalizer/package.json</file>
+            <file>file:/Users/dsambo/ENVIROMENT/OwnNormalizer/lib/OwnNormalizer.js</file>
+        </group>
     </open-files>
 </project-private>
